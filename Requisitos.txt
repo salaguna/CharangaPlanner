@@ -1,0 +1,14 @@
+# Listado de ideas para el proyecto
+
+Muro de novedades
+Gestión de notificaciones/avisos 
+Control de actividades
+ -participantes
+ -premios
+ -fotos
+ -equipos
+ -creación de cuadro de partidos
+ -resultados
+Control de pagos
+Control de usuarios
+Control de administradores

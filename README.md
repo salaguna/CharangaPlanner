@@ -1,2 +1,2 @@
-# asoculturales
-App para la gestión de asociaciones culturales
+# CharangaPlanner
+App para la gestión de asociaciones y peñas
